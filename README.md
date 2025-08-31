@@ -1,89 +1,110 @@
+# 👋 Hi, I’m Mayank Mehta  
 
-# 👋 Hi there, I'm Mayank Mehta!
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/mayank-mehta-123734229/) 
+[![GitHub](https://img.shields.io/badge/GitHub-grey?style=flat&logo=github)](https://github.com/mayankmehta8) 
+[![Portfolio Projects](https://img.shields.io/badge/Projects-Portfolio-orange)](https://github.com/mayankmehta8?tab=repositories)  
+[![Email](https://img.shields.io/badge/Email-me%40gmail-red)](mailto:mayank8802@gmail.com)  
 
-🎓 Final-year B.E. student in Artificial Intelligence and Data Science at MMCOE, Pune  
-💡 Passionate about solving real-world problems with AI, Location Intelligence & Generative AI  
-📍 Currently diving deeper into Deep Learning, Stable Diffusion, ControlNet, and spatial data analysis
+🚀 **AI & Data Science Engineer | Location Intelligence Enthusiast | Generative AI Explorer**  
 
----
-
-## 🔧 Skills & Technologies
-
-**Languages:** Python, SQL, JavaScript  
-**Frameworks & Tools:** Django, Flask, Streamlit, LangChain, Scikit-learn, PyTorch, TensorFlow  
-**Machine Learning:** LSTM, GANs, Stable Diffusion, ControlNet  
-**GIS Tools:** QGIS, GeoPandas, Spatial Clustering  
-**Other:** Web Scraping (Scrapy, Selenium), HTML/CSS, PostgreSQL, Git/GitHub
+I build intelligent systems that combine **Machine Learning, Generative AI, and Location Intelligence** to solve real-world problems.  
+With 3+ years of hands-on experience in **ML/DL, MLOps, and full-stack deployments**, I’ve delivered end-to-end projects ranging from financial forecasting to spatial analytics.  
 
 ---
 
-## 🧠 Projects
-
-### 📍 Location Intelligence
-- **Food Business Expansion System**  
-  Tools: Python, QGIS, GeoPandas, Scrapy, Selenium  
-  ➤ Dashboard to help restaurant franchises select optimal new locations using spatial data and clustering.
-
-### 🤖 Generative AI
-- **Interior Design Recommender**  
-  Tools: Python, SDXL, ControlNet, Replicate  
-  ➤ AI-based tool for generating interior design ideas from room images.
-
-- **Fashion Recommendation System**  
-  Tools: GANs, PyTorch  
-  ➤ Suggests fashionable outfits based on user preferences using generative networks.
-
-### 🩺 Health & Wellness
-- **Ayurvedic Chatbot**  
-  Tools: Python, Langchain, FAISS, Gradio  
-  ➤ RAG-based chatbot trained on Ayurvedic texts for answering health-related queries.
-
-### 📈 Data & Forecasting
-- **Stock Market Forecaster**  
-  Tools: TensorFlow, LSTM  
-  ➤ Time-series model predicting stock price trends.
-
-- **House Price Prediction**  
-  Tools: Python, Scikit-learn  
-  ➤ Linear regression model for estimating house values.
-
-### 💻 Web & Software Development
-- **EdTech Platform**  
-  Tools: Flask, PostgreSQL, JavaScript  
-  ➤ Team project to provide resources and a community for engineering students.
-
-- **Billing System**  
-  Tools: Python, SQLAlchemy, MySQL  
-  ➤ Developed for a construction company to manage invoicing.
+## 🧠 About Me  
+- 🎓 Pursuing **B.E. Artificial Intelligence and Data Science (Honors)** at MMCOE (SPPU).  
+- 💡 Passionate about **Generative AI, GIS, and Intelligent Automation**.  
+- 🛠 Skilled in **Python, PyTorch, LangChain, SQL, Docker, AWS EC2, BigQuery, MLflow**.  
+- 🌏 Love applying **location intelligence** to business expansion and optimization problems.  
+- 🤝 Open to collaborations in **AI, MLOps, and real-world data-driven products**.  
 
 ---
 
-## 💼 Experience
+## ⚡ Tech Stack  
 
-- **Data Analytics Intern @ Dista Technologies** *(Jul–Dec 2024)*  
-  ➤ Worked on location intelligence, regression/clustering algorithms, and web scraping.
+**Languages:**  
+![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white) 
+![SQL](https://img.shields.io/badge/SQL-025E8C?logo=postgresql&logoColor=white) 
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black)  
 
-- **Software Development Intern @ Pixaflip Technologies** *(Nov 2022–Mar 2024)*  
-  ➤ Backend development using Django and SQL, with exposure to GenAI.
+**ML/DL:**  
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?logo=pytorch&logoColor=white) 
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?logo=tensorflow&logoColor=white) 
+![scikit-learn](https://img.shields.io/badge/Scikit--Learn-F7931E?logo=scikitlearn&logoColor=white) 
+![Transformers](https://img.shields.io/badge/Transformers-yellow?logo=huggingface&logoColor=black)  
 
-- **Corporate Relations Manager @ AIESEC in Pune** *(Aug 2023–Jan 2024)*  
-  ➤ Coordinated with companies, managed partnerships, and led outreach efforts.
+**Data Tools:**  
+![Pandas](https://img.shields.io/badge/Pandas-150458?logo=pandas&logoColor=white) 
+![NumPy](https://img.shields.io/badge/NumPy-013243?logo=numpy&logoColor=white) 
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557c?logo=plotly&logoColor=white) 
+![GeoPandas](https://img.shields.io/badge/GeoPandas-009688?logo=python&logoColor=white)  
+
+**MLOps & Deployment:**  
+![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white) 
+![MLflow](https://img.shields.io/badge/MLflow-0194E2?logo=mlflow&logoColor=white) 
+![DVC](https://img.shields.io/badge/DVC-945DD6?logo=dvc&logoColor=white) 
+![AWS](https://img.shields.io/badge/AWS-232F3E?logo=amazonaws&logoColor=white)  
+
+**Databases:**  
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?logo=postgresql&logoColor=white) 
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white) 
+![BigQuery](https://img.shields.io/badge/BigQuery-4285F4?logo=googlecloud&logoColor=white)  
 
 ---
 
-## 📫 Let's Connect
+## 🚀 Highlighted Projects  
 
-- 📧 Email: [mayank8802@gmail.com](mailto:mayank8802@gmail.com)  
-- 🌐 GitHub: [github.com/mayankmehta8](https://github.com/mayankmehta8)  
-- 💼 LinkedIn: [linkedin.com/in/mayank-mehta-123734229](https://www.linkedin.com/in/mayank-mehta-123734229/)
+🔹 [**Interior Design Recommender (GenAI)**](https://github.com/mayankmehta8)  
+Fine-tuned **Stable Diffusion** with curated datasets & **ControlNet** for layout-preserving generative recommendations.  
+
+🔹 [**Food Business Expansion System**](https://github.com/mayankmehta8)  
+Location intelligence tool for restaurants using **QGIS, Scrapy, Selenium, ML models** — reduced scouting time by **70%**.  
+
+🔹 [**Ayurveda Chatbot**](https://github.com/mayankmehta8/Ayurveda_chatbot)  
+Built a **RAG-based chatbot** with **LangChain + FAISS**, deployed with **Gradio**.  
+
+🔹 [**Stock Market Forecaster**](https://github.com/mayankmehta8/Stock_market_forcasting_advanced)  
+Automated pipelines with **yfinance + cron jobs**. Compared **LSTM, Transformer, xLSTM** and deployed best on **Streamlit**.  
+
+🔹 [**House Price Prediction**](https://github.com/mayankmehta8/housepriceprediction)  
+End-to-end ML workflow with **DVC + MLflow + Docker**, deployed on **AWS EC2**.  
 
 ---
 
-## 📊 GitHub Stats
+## 📈 Work Experience  
 
-![Mayank's GitHub Stats](https://github-readme-stats.vercel.app/api?username=mayankmehta8&show_icons=true&theme=tokyonight)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mayankmehta8&layout=compact&theme=tokyonight)
+- **Data Analytics Intern @ Dista Technologies (2024)**  
+   Delivered a **geo-analytics product** with ML + spatial data in **BigQuery**, improving franchise expansion decisions.  
+
+- **Software Development Intern @ Pixaflip Technologies (2022-24)**  
+   - Improved SQL query efficiency by **40%**.  
+   - Integrated **QR-based attendance system**.  
+   - Closed client deals with **ML prototypes**.  
+
+- **Corporate Relations Manager @ AIESEC Pune (2023-24)**  
+   Built **3+ corporate partnerships** and facilitated international onboarding.  
 
 ---
 
-⚡ *Always curious. Always building.*
+## 🎯 Certifications  
+- 🏅 Supervised Machine Learning (Coursera)  
+- 🏅 Complete Python Bootcamp (Udemy)  
+
+---
+
+## 🌱 Currently Exploring  
+- **Generative AI** (ControlNet, SDXL, multimodal AI)  
+- **Swarm Intelligence & Evolutionary Computing**  
+- **AI Agents with LangChain**  
+
+---
+
+## 📊 GitHub Stats  
+
+![Mayank’s GitHub stats](https://github-readme-stats.vercel.app/api?username=mayankmehta8&show_icons=true&theme=radical)  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mayankmehta8&layout=compact&theme=radical)  
+
+---
+
+✨ *I believe in using AI to create practical, impactful solutions — from smarter business decisions to creative design assistance.*  
