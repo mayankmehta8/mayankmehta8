@@ -55,7 +55,7 @@ With 3+ years of hands-on experience in **ML/DL, MLOps, and full-stack deploymen
 
 ## 🚀 Highlighted Projects  
 
-🔹 [**Interior Design Recommender (GenAI)**](https://github.com/mayankmehta8)  
+🔹 [**Interior Design Recommender (GenAI)**]([https://github.com/mayankmehta8](https://github.com/mayankmehta8/Interior_design_project))  
 Fine-tuned **Stable Diffusion** with curated datasets & **ControlNet** for layout-preserving generative recommendations.  
 
 🔹 [**Food Business Expansion System**]
