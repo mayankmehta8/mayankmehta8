@@ -58,7 +58,7 @@ With 3+ years of hands-on experience in **ML/DL, MLOps, and full-stack deploymen
 🔹 [**Interior Design Recommender (GenAI)**](https://github.com/mayankmehta8)  
 Fine-tuned **Stable Diffusion** with curated datasets & **ControlNet** for layout-preserving generative recommendations.  
 
-🔹 [**Food Business Expansion System**](https://github.com/mayankmehta8)  
+🔹 [**Food Business Expansion System**]
 Location intelligence tool for restaurants using **QGIS, Scrapy, Selenium, ML models** — reduced scouting time by **70%**.  
 
 🔹 [**Ayurveda Chatbot**](https://github.com/mayankmehta8/Ayurveda_chatbot)  
